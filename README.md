@@ -16,4 +16,6 @@
   - Son Goku 龍珠嘅孫悟空 叫 “格古洛”、而非“卡卡羅特”
 
    ## 使用
-   在主方案嘅文本dict.yaml打開編輯，於import_tables:添加添加“forjyut.jyutgongyik”。或直接將文本字符貼入主詞庫亦可。
+   擁有rime，放置到程式或用戶文件夾，在主方案嘅文本dict.yaml打開編輯，於import_tables:添加添加“forjyut.jyutgongyik”。
+
+   或直接將文本字符貼入主詞庫亦可。
